@@ -1,2 +1,6 @@
 obj/*
 bin/*
+Debug/*
+
+# agar folder tidak masuk ke git
+
