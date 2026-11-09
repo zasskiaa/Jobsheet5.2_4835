@@ -1,6 +1,6 @@
 obj/*
-bin/*
-Debug/*
+bin/Debug/net10.0/
+
 
 # agar folder tidak masuk ke git
 
